@@ -10,5 +10,10 @@
 
 ### A popular implementation of naive Bayes for NLP involves preprocessing the text using TF-IDF and then running the multinomial naive Bayes on the preprocessed outputs. This allows the algorithm to be run on the most prominent words within a document. 
 
+## SVC 
+
+## Deep Learning Model for Text Classification
+
+### Today, we will be using Keras with Tensorflow to build our model. Keras is a Python library that makes building deep learning models very easy compared to the relatively low-level interface of the Tensorflow API. In addition to the dense layers, we will also use embedding and convolutional layers to learn the underlying semantic information of the words and potential structural patterns within the data.
 
 References: https://www.toptal.com/machine-learning/nlp-tutorial-text-classification
